@@ -6,49 +6,23 @@ namespace OperatorExcercise
     {
         static void Main(string[] args)
         {
-            //explicit typing - string variableName = "Hello";
-            //inferred typing - var varName = "Hello";
+#1
+          /*  Create a simple program named OperatorExercise in your repos folder to write out the results of addition, subtraction, multiplication, division operations.
+            For division, create two integer variables called a and b.
+Create a third integer variable and name it quotient(the result of a division) that stores the result of the division of a and b, and another integer variable named remainder that stores the remainder(using the % operator). Write out the results using Console.WriteLine or Console.Write to write out the results in the following form: if a = 17 and b = 4, print the following:	
+17 / 4 is 4 remainder 1
+________________________________________________________________
+#2
 
-            var a = 17;
-            var b = 4;
-
-            var div = a / b;
-
-            var mod = a % b;
-
-            Console.WriteLine($"{a}/{b} is {div} remainder {mod}");
-
-            var r = 20;
-            var pi = Math.PI;
-            //these are not needed with the method used below. r would have to be removed from console.write line because it 
-            //no longer exists. 
-            var areaOfCircle = pi * (r * r);
-            // var areaOfCircle = CalculateArea(20);
-            // use a method because if you had to do info for multiple circles you wouldn't want to
-            // have to type in everytime. just use the method. 
-
-            Console.WriteLine($"The area of a circle with radius of {r} is {areaOfCircle}");
-            //Console.WriteLine($"The area of the circle with radius of {radius} is {areaOfCircle}");
-
+Create a method that will Calculate the area of a circle based on its radius -you can name the method AreaOfCircle
+This method will use this formula pi *r ^ 2 and return the area of type double
+The method will also accept r as a parameter
+Allow a user to input a value for r in the console using the following code:
             var radius = double.Parse(Console.ReadLine());
-            //above allows user to input radius (normally above console write line just taking notes here)
-            // a try parse can handle if people enter jibberish. like "xdhasu" insead of "20"
-            //double realRadius;
-            //var radius = double.TryParse(Console.ReadLine(), out realRadius);
+          */
 
-            var areOfCircle = CalculateArea(radius);
-            //above calculates area of the cricle. 
-
-            //there is no prompt for user input. that can be added like
-            //Console.Writeline("What is the radius of your circle?");
-
-            //this is the formula for an area calculator app. add in graphics and this could be used for a phone, etc. 
 
         }
 
-        public static double CalculateArea(double radius)
-        {
-            return Math.PI * (radius * radius);
-        }
-    }
+        
 }
