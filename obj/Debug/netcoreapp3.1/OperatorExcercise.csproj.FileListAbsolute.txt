@@ -1,0 +1,13 @@
+C:\Users\Testpiggy\repos\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.exe
+C:\Users\Testpiggy\repos\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.deps.json
+C:\Users\Testpiggy\repos\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.json
+C:\Users\Testpiggy\repos\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.dev.json
+C:\Users\Testpiggy\repos\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\Users\Testpiggy\repos\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csprojAssemblyReference.cache
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfoInputs.cache
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfo.cs
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\Users\Testpiggy\repos\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.genruntimeconfig.cache
